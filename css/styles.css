@@ -109,3 +109,6 @@ input[type=text], input[type=password] {
 	.cancelbtn {
 	   width: 100%;
 	}
+.h2 {
+	 color: #f44336;
+ }
